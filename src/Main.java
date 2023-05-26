@@ -31,6 +31,7 @@ public class Main {
             for (int x = 1; x <= 10; x++) {
                 System.out.print(y * x + " ");
             }
+
             System.out.println();
         }
     }
